@@ -2,7 +2,7 @@
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="./img/banner.png">
 </picture>
 
-### Hi there 👋
+
 
 
 
